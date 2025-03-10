@@ -1,6 +1,6 @@
 # Hate Speech Classifier
 <div align = "center">
-    <img src="https://github.com/theinit01/Twitter-Hate-Speech-Classifier/blob/main/assets/ScreenRecording2024-08-05154029-ezgif.com-video-to-gif-converter.gif" alt="Animated GIF" />
+    <img src="https://github.com/Mouryautti/Twitter-Hate-Speech-Classifier/blob/main/assets/ScreenRecording2024-08-05154029-ezgif.com-video-to-gif-converter.gif" alt="Animated GIF" />
 </div>
 
 This repository contains a Streamlit web app for classifying tweets using a hate speech detection model. Users can input a Twitter handle, and the app gathers tweets associated with that handle. It then classifies the tweets into different categories using a machine learning model trained to detect hate speech.
@@ -21,7 +21,7 @@ To run the Streamlit app locally, follow these steps:
 1. Clone this repository:
 
     ```
-    git clone https://github.com/theinit01/Twitter-Hate-Speech-Classifier
+    git clone https://github.com/Mouryautti/Twitter-Hate-Speech-Classifier
     ```
 
 2. Install the required dependencies:
