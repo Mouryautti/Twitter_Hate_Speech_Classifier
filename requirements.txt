@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+wordcloud
+joblib
+scikit-learn
+tweeterpy
+pandas
+numpy
+nltk
+detoxify
